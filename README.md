@@ -1,2 +1,0 @@
-# stranka
-Created with CodeSandbox
